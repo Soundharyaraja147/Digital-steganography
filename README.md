@@ -20,12 +20,12 @@ Hide your secret message within an image:
 ### Decode Message
 Extract hidden messages from encoded images:
 
-![Decode Message Interface]()
+![Decode Message Interface](whisper-image-secret-main/screenshots/encode-message.png)
 
 ### Example Result
 Successfully extracted message from an encoded image:
 
-![Extracted Message](screenshots/extracted-message.png)
+![Extracted Message](whisper-image-secret-main/screenshots/IMG-20251216-WA0005.jpg)
 
 ## How It Works
 
